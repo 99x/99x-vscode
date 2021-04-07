@@ -1,0 +1,40 @@
+{
+  "name": "99x",
+  "displayName": "99x",
+  "description": "VS code theme for 99x",
+  "author": "Tharaka Hewavitharana <tharakah@99x.io>",
+  "version": "1.0.0",
+  "icon": "images/99x.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/99x/99x-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/99x/99x-vscode/issues"
+  },
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "scripts": {
+    "bundle": "vsce package"
+  },
+  "keywords": [
+    "VSCode",
+    "Themes"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "99x",
+        "uiTheme": "vs-dark",
+        "path": "./themes/99x.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vsce": "^1.87.1"
+  }
+}
