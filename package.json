@@ -15,6 +15,9 @@
   "engines": {
     "vscode": "^1.55.0"
   },
+  "scripts": {
+    "bundle": "vsce package"
+  },
   "keywords": [
     "VSCode",
     "Themes"
@@ -31,7 +34,7 @@
       }
     ]
   },
-  "dependencies": {
+  "devDependencies": {
     "vsce": "^1.87.1"
   }
 }

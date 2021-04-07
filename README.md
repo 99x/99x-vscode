@@ -1,8 +1,6 @@
-![Preview](https://raw.githubusercontent.com/99x/99x-vscode/images/99x.png)
+![99x](https://user-images.githubusercontent.com/9572090/113925314-8268d200-9808-11eb-8a13-1f2bd6099631.png)
 
 # 99x Theme for VS Code
-
-[![Version](https://vsmarketplacebadge.apphb.com/version/wesbos.theme-cobalt2.svg)](https://marketplace.visualstudio.com/items?itemName=99x.theme-99x)
 
 ## Installation
 
